@@ -1,10 +1,10 @@
 # ILAGAN_2ECEA_PA_1
 
 ### The alphabet soup problem requires a function that takes a string and returns a string thats arranged alphabetically
-```
-def alphabet_soup(text):
-return '' .join(sorted(text))    
-```
+
+    def alphabet_soup(text):
+    return '' .join(sorted(text))    
+
 // sorts the text alphabetically
 ```
 print(alphabet_soup("hello")) 
