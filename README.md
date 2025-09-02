@@ -5,12 +5,12 @@
 def alphabet_soup(text):
 return '' .join(sorted(text))    
 // sorts the text alphabetically
-"""
-print(alphabet_soup("hello")) 
+
+"""print(alphabet_soup("hello")) 
 print(alphabet_soup("hacker"))
 print(alphabet_soup("Artifical")) 
-print(alphabet_soup("Atomic"))
-"""
+print(alphabet_soup("Atomic"))"""
+
 // prints the text in alphabetical order
 
 
