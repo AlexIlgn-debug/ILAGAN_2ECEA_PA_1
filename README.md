@@ -1,6 +1,6 @@
 # ILAGAN_2ECEA_PA_1
 
-## The alphabet soup problem requires a function that takes a string and returns a string thats arranged alphabetically
+### The alphabet soup problem requires a function that takes a string and returns a string thats arranged alphabetically
 
 def alphabet_soup(text):
 return '' .join(sorted(text))    
@@ -14,7 +14,7 @@ print(alphabet_soup("Atomic"))
 // prints the text in alphabetical order
 
 
-## The emoticon problem requires a function that converts the words "Smile", "Grin", "sad", and "mad" into its emoticon version.
+### The emoticon problem requires a function that converts the words "Smile", "Grin", "sad", and "mad" into its emoticon version.
 
 def emotify(face):
     face = face.replace("smile", ":)") 
@@ -28,10 +28,10 @@ print(emotify("Make me smile"))
 print(emotify("I am mad"))
 print(emotify("You make me grin"))
 print(emotify("Why are you sad ?"))
-# Prints the phrases and replaces the word
+// Prints the phrases and replaces the word
 
 
-## The Unpacking list problem requires creating a list and segregating them from first, the last, and everything in between 
+### The Unpacking list problem requires creating a list and segregating them from first, the last, and everything in between 
 
 list = [1, 2, 3, 4, 5, 6] 
 first = print(list[0]) 
